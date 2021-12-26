@@ -1,4 +1,4 @@
--Hasan Berat SOKE
+- Hasan Berat SOKE
 -bilgisayar ve bilisim fakultesi
 -bilisim sistemleri muh.
 -b181200046
